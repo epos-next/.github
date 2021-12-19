@@ -1,1 +1,1 @@
-![preview](preview.jpg)
+![preview](./preview.jpg)
